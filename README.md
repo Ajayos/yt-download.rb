@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/ruby-package-red?logo=ruby)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=yt-download&left_text=Total%20views)
 <a href="https://twitter.com/Ajayakhub" target="_blank"> ![](https://img.shields.io/badge/Twitter-@Ajay-blue?logo=twitter)</a>
-<a href="https://github.com/Ajayakhub" target="_blank"> ![](https://img.shields.io/badge/github-@Ajay%20o%20s-blue?logo=github)</a>
+<a href="https://github.com/Ajay-o-s" target="_blank"> ![](https://img.shields.io/badge/github-@Ajay%20o%20s-blue?logo=github)</a>
 <a href="https://www.ruby-lang.org/en/" target="_blank"> ![](https://img.shields.io/badge/installing-ruby-orange?logo=linux&logoColor=black)</a>
 
 #### What's this?
