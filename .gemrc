@@ -1,8 +1,0 @@
----
-:backtrace: false
-:bulk_threshold: 1000
-:sources:
-- https://rubygems.org/
-- https://Ajay-o-s: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@rubygems.pkg.github.com/Ajay-o-s/
-:update_sources: true
-:verbose: true
