@@ -1,6 +1,3 @@
-
-require "rake"
-
 Gem::Specification.new do |s|
   s.name        = 'yt-download'
   s.version     = '1.0.4'
