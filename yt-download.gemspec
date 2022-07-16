@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.authors     = ["Ajay-o-s"]
   s.email       = 'akhubsmaster@gmail.com'
   s.files       = FileList["lib/*"]
-  s.executables << "yt-download.rb"
+  s.executables << "yt-download"
   s.homepage    =
-    'https://rubygems.pkg.github.com/Ajay-o-s/yt-download.rb'
+    'https://rubygems.pkg.github.com/ajay-o-s/yt-download.rb'
   s.license       = 'Apache-2.0'
   s.metadata    = { "source_code_uri" => "https://github.com/Ajay-o-s/yt-download.rb" }
 end
